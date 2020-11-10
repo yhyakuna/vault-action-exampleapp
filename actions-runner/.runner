@@ -1,0 +1,9 @@
+﻿{
+  "agentId": 2,
+  "agentName": "Yokos-MacBook-Pro",
+  "poolId": 1,
+  "poolName": "Default",
+  "serverUrl": "https://pipelines.actions.githubusercontent.com/iPk0lhAFSUKIqpvhPWzyNe0Y8WSAVVkhtiuDtZIn3Iieq9U6Qn",
+  "gitHubUrl": "https://github.com/yhyakuna/vault-action-exampleapp",
+  "workFolder": "_work"
+}

@@ -1,0 +1,207 @@
+[2020-11-10 05:10:45Z INFO HostContext] No proxy settings were found based on environmental variables (http_proxy/https_proxy/HTTP_PROXY/HTTPS_PROXY)
+[2020-11-10 05:10:45Z INFO HostContext] Well known directory 'Bin': '/Users/yoko/git/vault-guides/ecosystem/vault-github-action/actions-runner/bin'
+[2020-11-10 05:10:45Z INFO HostContext] Well known directory 'Root': '/Users/yoko/git/vault-guides/ecosystem/vault-github-action/actions-runner'
+[2020-11-10 05:10:45Z INFO HostContext] Well known config file 'Credentials': '/Users/yoko/git/vault-guides/ecosystem/vault-github-action/actions-runner/.credentials'
+[2020-11-10 05:10:45Z INFO Listener] Runner is built for OSX (X64) - osx-x64.
+[2020-11-10 05:10:45Z INFO Listener] RuntimeInformation: Darwin 19.6.0 Darwin Kernel Version 19.6.0: Mon Aug 31 22:12:52 PDT 2020; root:xnu-6153.141.2~1/RELEASE_X86_64.
+[2020-11-10 05:10:45Z INFO Listener] Version: 2.274.1
+[2020-11-10 05:10:45Z INFO Listener] Commit: c3219ccd9cc7acedb4996d93c2284e50da5d1f55
+[2020-11-10 05:10:45Z INFO Listener] Culture: en-US
+[2020-11-10 05:10:45Z INFO Listener] UI Culture: en-US
+[2020-11-10 05:10:45Z INFO HostContext] Well known directory 'Bin': '/Users/yoko/git/vault-guides/ecosystem/vault-github-action/actions-runner/bin'
+[2020-11-10 05:10:45Z INFO HostContext] Well known directory 'Root': '/Users/yoko/git/vault-guides/ecosystem/vault-github-action/actions-runner'
+[2020-11-10 05:10:45Z INFO Listener] Validating directory permissions for: '/Users/yoko/git/vault-guides/ecosystem/vault-github-action/actions-runner'
+[2020-11-10 05:10:45Z INFO CommandLineParser] Parse
+[2020-11-10 05:10:45Z INFO CommandLineParser] Parsing 5 args
+[2020-11-10 05:10:45Z INFO CommandLineParser] parsing argument
+[2020-11-10 05:10:45Z INFO CommandLineParser] HasArgs: False
+[2020-11-10 05:10:45Z INFO CommandLineParser] Adding Command: configure
+[2020-11-10 05:10:45Z INFO CommandLineParser] parsing argument
+[2020-11-10 05:10:45Z INFO CommandLineParser] HasArgs: True
+[2020-11-10 05:10:45Z INFO CommandLineParser] arg: url
+[2020-11-10 05:10:45Z INFO CommandLineParser] parsing argument
+[2020-11-10 05:10:45Z INFO CommandLineParser] HasArgs: True
+[2020-11-10 05:10:45Z INFO CommandLineParser] Adding option 'url': 'https://github.com/yhyakuna/vault-action-exampleapp'
+[2020-11-10 05:10:45Z INFO CommandLineParser] parsing argument
+[2020-11-10 05:10:45Z INFO CommandLineParser] HasArgs: True
+[2020-11-10 05:10:45Z INFO CommandLineParser] arg: token
+[2020-11-10 05:10:45Z INFO CommandLineParser] parsing argument
+[2020-11-10 05:10:45Z INFO CommandLineParser] HasArgs: True
+[2020-11-10 05:10:45Z INFO CommandLineParser] Adding option 'token': '***'
+[2020-11-10 05:10:45Z INFO Listener] Arguments parsed
+[2020-11-10 05:10:45Z INFO Runner] ExecuteCommand
+[2020-11-10 05:10:45Z INFO ConfigurationStore] currentAssemblyLocation: /Users/yoko/git/vault-guides/ecosystem/vault-github-action/actions-runner/bin/Runner.Listener.dll
+[2020-11-10 05:10:45Z INFO HostContext] Well known directory 'Bin': '/Users/yoko/git/vault-guides/ecosystem/vault-github-action/actions-runner/bin'
+[2020-11-10 05:10:45Z INFO ConfigurationStore] binPath: /Users/yoko/git/vault-guides/ecosystem/vault-github-action/actions-runner/bin
+[2020-11-10 05:10:45Z INFO HostContext] Well known directory 'Bin': '/Users/yoko/git/vault-guides/ecosystem/vault-github-action/actions-runner/bin'
+[2020-11-10 05:10:45Z INFO HostContext] Well known directory 'Root': '/Users/yoko/git/vault-guides/ecosystem/vault-github-action/actions-runner'
+[2020-11-10 05:10:45Z INFO ConfigurationStore] RootFolder: /Users/yoko/git/vault-guides/ecosystem/vault-github-action/actions-runner
+[2020-11-10 05:10:45Z INFO HostContext] Well known directory 'Bin': '/Users/yoko/git/vault-guides/ecosystem/vault-github-action/actions-runner/bin'
+[2020-11-10 05:10:45Z INFO HostContext] Well known directory 'Root': '/Users/yoko/git/vault-guides/ecosystem/vault-github-action/actions-runner'
+[2020-11-10 05:10:45Z INFO HostContext] Well known config file 'Runner': '/Users/yoko/git/vault-guides/ecosystem/vault-github-action/actions-runner/.runner'
+[2020-11-10 05:10:45Z INFO ConfigurationStore] ConfigFilePath: /Users/yoko/git/vault-guides/ecosystem/vault-github-action/actions-runner/.runner
+[2020-11-10 05:10:45Z INFO HostContext] Well known directory 'Bin': '/Users/yoko/git/vault-guides/ecosystem/vault-github-action/actions-runner/bin'
+[2020-11-10 05:10:45Z INFO HostContext] Well known directory 'Root': '/Users/yoko/git/vault-guides/ecosystem/vault-github-action/actions-runner'
+[2020-11-10 05:10:45Z INFO HostContext] Well known config file 'Credentials': '/Users/yoko/git/vault-guides/ecosystem/vault-github-action/actions-runner/.credentials'
+[2020-11-10 05:10:45Z INFO ConfigurationStore] CredFilePath: /Users/yoko/git/vault-guides/ecosystem/vault-github-action/actions-runner/.credentials
+[2020-11-10 05:10:45Z INFO HostContext] Well known directory 'Bin': '/Users/yoko/git/vault-guides/ecosystem/vault-github-action/actions-runner/bin'
+[2020-11-10 05:10:45Z INFO HostContext] Well known directory 'Root': '/Users/yoko/git/vault-guides/ecosystem/vault-github-action/actions-runner'
+[2020-11-10 05:10:45Z INFO HostContext] Well known config file 'MigratedCredentials': '/Users/yoko/git/vault-guides/ecosystem/vault-github-action/actions-runner/.credentials_migrated'
+[2020-11-10 05:10:45Z INFO ConfigurationStore] MigratedCredFilePath: /Users/yoko/git/vault-guides/ecosystem/vault-github-action/actions-runner/.credentials_migrated
+[2020-11-10 05:10:45Z INFO HostContext] Well known directory 'Bin': '/Users/yoko/git/vault-guides/ecosystem/vault-github-action/actions-runner/bin'
+[2020-11-10 05:10:45Z INFO HostContext] Well known directory 'Root': '/Users/yoko/git/vault-guides/ecosystem/vault-github-action/actions-runner'
+[2020-11-10 05:10:45Z INFO HostContext] Well known config file 'Service': '/Users/yoko/git/vault-guides/ecosystem/vault-github-action/actions-runner/.service'
+[2020-11-10 05:10:45Z INFO ConfigurationStore] ServiceConfigFilePath: /Users/yoko/git/vault-guides/ecosystem/vault-github-action/actions-runner/.service
+[2020-11-10 05:10:45Z INFO CommandSettings] Flag 'help': 'False'
+[2020-11-10 05:10:45Z INFO CommandSettings] Flag 'version': 'False'
+[2020-11-10 05:10:45Z INFO CommandSettings] Flag 'commit': 'False'
+[2020-11-10 05:10:45Z INFO CommandSettings] Command 'configure': 'True'
+[2020-11-10 05:10:46Z INFO Terminal] WRITE LINE: 
+[2020-11-10 05:10:46Z INFO Terminal] WRITE LINE: --------------------------------------------------------------------------------
+[2020-11-10 05:10:46Z INFO Terminal] WRITE LINE: |        ____ _ _   _   _       _          _        _   _                      |
+[2020-11-10 05:10:46Z INFO Terminal] WRITE LINE: |       / ___(_) |_| | | |_   _| |__      / \   ___| |_(_) ___  _ __  ___      |
+[2020-11-10 05:10:46Z INFO Terminal] WRITE LINE: |      | |  _| | __| |_| | | | | '_ \    / _ \ / __| __| |/ _ \| '_ \/ __|     |
+[2020-11-10 05:10:46Z INFO Terminal] WRITE LINE: |      | |_| | | |_|  _  | |_| | |_) |  / ___ \ (__| |_| | (_) | | | \__ \     |
+[2020-11-10 05:10:46Z INFO Terminal] WRITE LINE: |       \____|_|\__|_| |_|\__,_|_.__/  /_/   \_\___|\__|_|\___/|_| |_|___/     |
+[2020-11-10 05:10:46Z INFO Terminal] WRITE LINE: |                                                                              |
+[2020-11-10 05:10:46Z INFO Terminal] WRITE: |                       
+[2020-11-10 05:10:46Z INFO Terminal] WRITE: Self-hosted runner registration
+[2020-11-10 05:10:46Z INFO Terminal] WRITE LINE:                         |
+[2020-11-10 05:10:46Z INFO Terminal] WRITE LINE: |                                                                              |
+[2020-11-10 05:10:46Z INFO Terminal] WRITE LINE: --------------------------------------------------------------------------------
+[2020-11-10 05:10:46Z INFO ConfigurationManager] ConfigureAsync
+[2020-11-10 05:10:46Z INFO ConfigurationStore] IsConfigured()
+[2020-11-10 05:10:46Z INFO ConfigurationStore] IsConfigured: False
+[2020-11-10 05:10:46Z INFO ConfigurationManager] Is configured: False
+[2020-11-10 05:10:46Z INFO CommandSettings] Arg 'url': 'https://github.com/yhyakuna/vault-action-exampleapp'
+[2020-11-10 05:10:46Z INFO CommandSettings] Remove url from Arg dictionary.
+[2020-11-10 05:10:46Z INFO CommandSettings] Arg 'token': '***'
+[2020-11-10 05:10:46Z INFO CommandSettings] Remove token from Arg dictionary.
+[2020-11-10 05:10:48Z INFO ConfigurationManager] Http response code: OK from 'POST https://api.github.com/actions/runner-registration'
+[2020-11-10 05:10:49Z INFO ConfigurationManager] cred retrieved via GitHub auth
+[2020-11-10 05:10:49Z INFO RunnerServer] Establish connection with 100 seconds timeout.
+[2020-11-10 05:10:49Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2020-11-10 05:10:49Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2020-11-10 05:10:49Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2020-11-10 05:10:49Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2020-11-10 05:10:49Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2020-11-10 05:10:51Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2020-11-10 05:10:51Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2020-11-10 05:10:51Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2020-11-10 05:10:51Z INFO Terminal] WRITE LINE: 
+[2020-11-10 05:10:51Z INFO ConfigurationManager] Test Connection complete.
+[2020-11-10 05:10:51Z INFO HostContext] Well known directory 'Bin': '/Users/yoko/git/vault-guides/ecosystem/vault-github-action/actions-runner/bin'
+[2020-11-10 05:10:51Z INFO HostContext] Well known directory 'Root': '/Users/yoko/git/vault-guides/ecosystem/vault-github-action/actions-runner'
+[2020-11-10 05:10:51Z INFO HostContext] Well known config file 'RSACredentials': '/Users/yoko/git/vault-guides/ecosystem/vault-github-action/actions-runner/.credentials_rsaparams'
+[2020-11-10 05:10:51Z INFO RSAFileKeyManager] Creating new RSA key using 2048-bit key length
+[2020-11-10 05:10:51Z INFO RSAFileKeyManager] Successfully saved RSA key parameters to file /Users/yoko/git/vault-guides/ecosystem/vault-github-action/actions-runner/.credentials_rsaparams
+[2020-11-10 05:10:51Z INFO RSAFileKeyManager] Which: 'chmod'
+[2020-11-10 05:10:52Z INFO RSAFileKeyManager] Location: '/bin/chmod'
+[2020-11-10 05:10:52Z INFO HostContext] Well known directory 'Bin': '/Users/yoko/git/vault-guides/ecosystem/vault-github-action/actions-runner/bin'
+[2020-11-10 05:10:52Z INFO HostContext] Well known directory 'Root': '/Users/yoko/git/vault-guides/ecosystem/vault-github-action/actions-runner'
+[2020-11-10 05:10:52Z INFO ProcessInvokerWrapper] Starting process:
+[2020-11-10 05:10:52Z INFO ProcessInvokerWrapper]   File name: '/bin/chmod'
+[2020-11-10 05:10:52Z INFO ProcessInvokerWrapper]   Arguments: '600 /Users/yoko/git/vault-guides/ecosystem/vault-github-action/actions-runner/.credentials_rsaparams'
+[2020-11-10 05:10:52Z INFO ProcessInvokerWrapper]   Working directory: '/Users/yoko/git/vault-guides/ecosystem/vault-github-action/actions-runner'
+[2020-11-10 05:10:52Z INFO ProcessInvokerWrapper]   Require exit code zero: 'False'
+[2020-11-10 05:10:52Z INFO ProcessInvokerWrapper]   Encoding web name:  ; code page: ''
+[2020-11-10 05:10:52Z INFO ProcessInvokerWrapper]   Force kill process on cancellation: 'False'
+[2020-11-10 05:10:52Z INFO ProcessInvokerWrapper]   Redirected STDIN: 'False'
+[2020-11-10 05:10:52Z INFO ProcessInvokerWrapper]   Persist current code page: 'False'
+[2020-11-10 05:10:52Z INFO ProcessInvokerWrapper]   Keep redirected STDIN open: 'False'
+[2020-11-10 05:10:52Z INFO ProcessInvokerWrapper]   High priority process: 'False'
+[2020-11-10 05:10:52Z INFO ProcessInvokerWrapper] Process started with process id 73756, waiting for process exit.
+[2020-11-10 05:10:52Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2020-11-10 05:10:52Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2020-11-10 05:10:53Z INFO ProcessInvokerWrapper] Finished process 73756 with exit code 0, and elapsed time 00:00:00.0174323.
+[2020-11-10 05:10:53Z INFO RSAFileKeyManager] Successfully set permissions for RSA key parameters file /Users/yoko/git/vault-guides/ecosystem/vault-github-action/actions-runner/.credentials_rsaparams
+[2020-11-10 05:10:53Z INFO ConfigurationManager] Found a self-hosted runner group with id {1} and name {2} 1, Default
+[2020-11-10 05:10:53Z INFO CommandSettings] Arg 'name': ''
+[2020-11-10 05:10:53Z INFO CommandSettings] Flag 'unattended': 'False'
+[2020-11-10 05:10:53Z INFO PromptManager] ReadValue
+[2020-11-10 05:10:53Z INFO Terminal] WRITE: Enter the name of runner: 
+[2020-11-10 05:10:53Z INFO Terminal] WRITE: [press Enter for Yokos-MacBook-Pro] 
+[2020-11-10 05:10:53Z INFO Terminal] READ LINE
+[2020-11-10 05:11:43Z INFO Terminal] Read value: ''
+[2020-11-10 05:11:43Z INFO PromptManager] Falling back to the default: 'Yokos-MacBook-Pro'
+[2020-11-10 05:11:43Z INFO Terminal] WRITE LINE: 
+[2020-11-10 05:11:43Z INFO CommandSettings] Arg 'labels': ''
+[2020-11-10 05:11:43Z INFO CommandSettings] Flag 'unattended': 'False'
+[2020-11-10 05:11:43Z INFO PromptManager] ReadValue
+[2020-11-10 05:11:43Z INFO Terminal] WRITE: This runner will have the following labels: 'self-hosted', 'macOS', 'X64' 
+Enter any additional labels (ex. label-1,label-2): 
+[2020-11-10 05:11:43Z INFO Terminal] WRITE: [press Enter to skip] 
+[2020-11-10 05:11:43Z INFO Terminal] READ LINE
+[2020-11-10 05:11:50Z INFO Terminal] Read value: ''
+[2020-11-10 05:11:50Z INFO Terminal] WRITE LINE: 
+[2020-11-10 05:11:51Z INFO ConfigurationStore] Saving OAuth credential @ /Users/yoko/git/vault-guides/ecosystem/vault-github-action/actions-runner/.credentials
+[2020-11-10 05:11:51Z INFO ConfigurationStore] Credentials Saved.
+[2020-11-10 05:11:51Z INFO ConfigurationStore] HasCredentials()
+[2020-11-10 05:11:51Z INFO ConfigurationStore] stored True
+[2020-11-10 05:11:51Z INFO CredentialManager] GetCredentialProvider
+[2020-11-10 05:11:51Z INFO CredentialManager] Creating type OAuth
+[2020-11-10 05:11:51Z INFO CredentialManager] Creating credential type: OAuth
+[2020-11-10 05:11:51Z INFO RSAFileKeyManager] Loading RSA key parameters from file /Users/yoko/git/vault-guides/ecosystem/vault-github-action/actions-runner/.credentials_rsaparams
+[2020-11-10 05:11:51Z INFO RunnerServer] Establish connection with 100 seconds timeout.
+[2020-11-10 05:11:51Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2020-11-10 05:11:51Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2020-11-10 05:11:51Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2020-11-10 05:11:51Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2020-11-10 05:11:51Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2020-11-10 05:11:51Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2020-11-10 05:11:51Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2020-11-10 05:11:52Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2020-11-10 05:11:52Z WARN GitHubActionsService] Authentication failed with status code 401.
+Transfer-Encoding: chunked
+WWW-Authenticate: Bearer
+Strict-Transport-Security: max-age=2592000
+X-TFS-ProcessId: dcec8d52-d687-4422-afa8-b2fa6bfb190b
+ActivityId: 381900f7-1854-4e7f-a69f-56620837c0b7
+X-TFS-Session: 0d96bba3-4705-4625-9074-881d074b225d
+X-VSS-E2EID: 78a92d46-692b-4b73-97e9-e8185332f91f
+X-VSS-SenderDeploymentId: 13a19993-c6bc-326c-afb4-32c5519f46f0
+X-TFS-ServiceError: The+user+%27System%3aPublicAccess%3baaaaaaaa-aaaa-aaaa-aaaa-aaaaaaaaaaaa%27+is+not+authorized+to+access+this+resource.
+X-VSS-S2STargetService: 0000005A-0000-8888-8000-000000000000/visualstudio.com
+X-MSEdge-Ref: Ref A: A8F9A64364E243D1B2806ADA43AB1E53 Ref B: SJCEDGE0416 Ref C: 2020-11-10T05:11:52Z
+Date: Tue, 10 Nov 2020 05:11:51 GMT
+
+[2020-11-10 05:11:52Z INFO RSAFileKeyManager] Loading RSA key parameters from file /Users/yoko/git/vault-guides/ecosystem/vault-github-action/actions-runner/.credentials_rsaparams
+[2020-11-10 05:11:52Z INFO RSAFileKeyManager] Loading RSA key parameters from file /Users/yoko/git/vault-guides/ecosystem/vault-github-action/actions-runner/.credentials_rsaparams
+[2020-11-10 05:11:52Z INFO GitHubActionsService] AAD Correlation ID for this token request: Unknown
+[2020-11-10 05:11:52Z INFO CommandSettings] Arg 'work': ''
+[2020-11-10 05:11:52Z INFO CommandSettings] Flag 'unattended': 'False'
+[2020-11-10 05:11:52Z INFO PromptManager] ReadValue
+[2020-11-10 05:11:52Z INFO Terminal] WRITE: Enter name of work folder: 
+[2020-11-10 05:11:52Z INFO Terminal] WRITE: [press Enter for _work] 
+[2020-11-10 05:11:52Z INFO Terminal] READ LINE
+[2020-11-10 05:11:58Z INFO Terminal] Read value: ''
+[2020-11-10 05:11:58Z INFO PromptManager] Falling back to the default: '_work'
+[2020-11-10 05:11:58Z INFO ConfigurationStore] Saving runner settings.
+[2020-11-10 05:11:58Z INFO ConfigurationStore] Settings Saved.
+[2020-11-10 05:11:58Z INFO Terminal] WRITE LINE: 
+[2020-11-10 05:11:58Z INFO Terminal] WRITE LINE: 
+[2020-11-10 05:11:58Z INFO OsxServiceControlManager] Service name 'actions.runner.yhyakuna-vault-action-exampleapp.Yokos-MacBook-Pro' display name 'GitHub Actions Runner (yhyakuna-vault-action-exampleapp.Yokos-MacBook-Pro)' will be used for service configuration.
+[2020-11-10 05:11:58Z INFO HostContext] Well known directory 'Bin': '/Users/yoko/git/vault-guides/ecosystem/vault-github-action/actions-runner/bin'
+[2020-11-10 05:11:58Z INFO HostContext] Well known directory 'Root': '/Users/yoko/git/vault-guides/ecosystem/vault-github-action/actions-runner'
+[2020-11-10 05:11:58Z INFO HostContext] Well known directory 'Bin': '/Users/yoko/git/vault-guides/ecosystem/vault-github-action/actions-runner/bin'
+[2020-11-10 05:11:58Z INFO HostContext] Well known directory 'Bin': '/Users/yoko/git/vault-guides/ecosystem/vault-github-action/actions-runner/bin'
+[2020-11-10 05:11:58Z INFO HostContext] Well known directory 'Root': '/Users/yoko/git/vault-guides/ecosystem/vault-github-action/actions-runner'
+[2020-11-10 05:11:58Z INFO UnixUtil] Which: 'chmod'
+[2020-11-10 05:11:58Z INFO UnixUtil] Location: '/bin/chmod'
+[2020-11-10 05:11:58Z INFO UnixUtil] Running /bin/chmod 755 "/Users/yoko/git/vault-guides/ecosystem/vault-github-action/actions-runner/svc.sh"
+[2020-11-10 05:11:58Z INFO ProcessInvokerWrapper] Starting process:
+[2020-11-10 05:11:58Z INFO ProcessInvokerWrapper]   File name: '/bin/chmod'
+[2020-11-10 05:11:58Z INFO ProcessInvokerWrapper]   Arguments: '755 "/Users/yoko/git/vault-guides/ecosystem/vault-github-action/actions-runner/svc.sh"'
+[2020-11-10 05:11:58Z INFO ProcessInvokerWrapper]   Working directory: '/Users/yoko/git/vault-guides/ecosystem/vault-github-action/actions-runner'
+[2020-11-10 05:11:58Z INFO ProcessInvokerWrapper]   Require exit code zero: 'True'
+[2020-11-10 05:11:58Z INFO ProcessInvokerWrapper]   Encoding web name:  ; code page: ''
+[2020-11-10 05:11:58Z INFO ProcessInvokerWrapper]   Force kill process on cancellation: 'False'
+[2020-11-10 05:11:58Z INFO ProcessInvokerWrapper]   Redirected STDIN: 'False'
+[2020-11-10 05:11:58Z INFO ProcessInvokerWrapper]   Persist current code page: 'False'
+[2020-11-10 05:11:58Z INFO ProcessInvokerWrapper]   Keep redirected STDIN open: 'False'
+[2020-11-10 05:11:58Z INFO ProcessInvokerWrapper]   High priority process: 'False'
+[2020-11-10 05:11:58Z INFO ProcessInvokerWrapper] Process started with process id 73759, waiting for process exit.
+[2020-11-10 05:11:58Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2020-11-10 05:11:58Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2020-11-10 05:11:58Z INFO ProcessInvokerWrapper] Finished process 73759 with exit code 0, and elapsed time 00:00:00.0130045.
+[2020-11-10 05:11:58Z INFO Listener] Runner execution has finished with return code 0
